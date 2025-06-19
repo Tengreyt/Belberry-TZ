@@ -1,5 +1,17 @@
 # Belberry — Тестовое задание для Frontend-разработчика
 
+<p align="center">
+  <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="Nuxt 3" width="80" height="80"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nuxt%203-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge" alt="Nuxt 3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white&style=for-the-badge" alt="Swiper"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vue%203-42B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue 3"/>
+</p>
+
 > Сайт доступен для просмотра по адресу: [https://belberry-tz.vercel.app/](https://belberry-tz.vercel.app/)
 
 ## Описание
@@ -118,11 +130,13 @@ npm run preview
 
 ## Используемые технологии
 
-- **Nuxt 3** — SSR/Vue 3 фреймворк
-- **TailwindCSS** — стилизация
-- **Swiper** — слайдер услуг
-- **TypeScript** — типизация
-- **Адаптивная верстка** — поддержка мобильных и десктопных устройств
+<p>
+  <img src="https://img.shields.io/badge/Nuxt%203-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge" alt="Nuxt 3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white&style=for-the-badge" alt="Swiper"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vue%203-42B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue 3"/>
+</p>
 
 ---
 
