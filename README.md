@@ -25,7 +25,7 @@
 
 ---
 
-## Project structure (hero, services, etc.)
+## Project structure (hero, services, и тд.)
 
 ```
 Belberry/
