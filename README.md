@@ -1,10 +1,6 @@
 # Belberry — Тестовое задание для Frontend-разработчика
 
 <p align="center">
-  <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="Nuxt 3" width="80" height="80"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Nuxt%203-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge" alt="Nuxt 3"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white&style=for-the-badge" alt="Swiper"/>
